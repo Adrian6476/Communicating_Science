@@ -3,3 +3,4 @@ voila
 matplotlib
 scikit-learn
 numpy
+Flask
